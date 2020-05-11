@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\GestionCommercial\GestionCommercial\bin\Debug\GestionCommercial.exe.config
+C:\Users\HP\source\repos\GestionCommercial\GestionCommercial\bin\Debug\GestionCommercial.exe
+C:\Users\HP\source\repos\GestionCommercial\GestionCommercial\bin\Debug\GestionCommercial.pdb
+C:\Users\HP\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.Properties.Resources.resources
+C:\Users\HP\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.exe
+C:\Users\HP\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.pdb
+C:\Users\HP\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.LoginForm.resources
+C:\Users\HP\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.Inscription.resources
+C:\Users\HP\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.Article.resources
+C:\Users\HP\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.Commandes.resources
+C:\Users\HP\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.Menu.resources
